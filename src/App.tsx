@@ -3,7 +3,7 @@ import { Canvas } from '@react-three/fiber';
 import { OrbitControls, useGLTF } from '@react-three/drei';
 import './App.css'
 
-function Model(modelUrl: string) {
+function Model({ modelUrl }) {
   const { scene } = useGLTF(modelUrl);
   return <primitive object={scene} />;
 }
