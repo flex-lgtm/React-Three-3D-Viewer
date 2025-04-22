@@ -1,4 +1,4 @@
-# React Three Fiber
+# React Three Fiber Sample
 
 This is 3D model Viewer using react three fiber
 
