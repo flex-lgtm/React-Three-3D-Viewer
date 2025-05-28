@@ -1,6 +1,7 @@
 # React Three Fiber Sample Project
 
 This is 3D model Viewer using react three fiber.
+How to run?
 
 ## Install
 Copy the scene.gltf to public folder
